@@ -461,7 +461,7 @@ const PROJECTS = {
                 </section>
 
                 <section class="project-footer">
-                    <a href="https://github.com/example" target="_blank" class="outline-btn">
+                    <a href="https://github.com/DEVE-l02s/portfolio" target="_blank" class="outline-btn">
                         github repo
                     </a>
                 </section>
