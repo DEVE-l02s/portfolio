@@ -226,7 +226,7 @@ function positionArrow(pageName) {
         case "about":
             left = window.innerWidth - arrowWidth - 20; //top right
             top = 20;
-            rotate = -135;
+            rotate = 225;
             break;
         case "projects":
             left = (window.innerWidth / 2) - (arrowWidth / 2); //centre
@@ -597,3 +597,4 @@ function closeOverlay() {
     overlay.classList.remove('active');
     document.body.style.overflow = '';
 }
+
