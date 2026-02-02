@@ -147,7 +147,7 @@ function runSpecialAnimation() {
 //timestamps for nn anim
 setInterval(animateRandomChar, 200);
 setInterval(applyGlobalPreset, 7000);
-setInterval(runSpecialAnimation, 14000);
+setInterval(runSpecialAnimation, 10000);
 
 //underline anim
 ////////////////
@@ -597,4 +597,5 @@ function closeOverlay() {
     overlay.classList.remove('active');
     document.body.style.overflow = '';
 }
+
 
